@@ -1,1 +1,1 @@
-alert("testing")
+alert(document.cookie)
